@@ -42,4 +42,4 @@ Parallel profile/trace to get a sense of the problem.
 
 Fixing with small amounts of [static scheduling (PR)](https://github.com/blaze/dask/pull/403).
 
-[Profile Link (1.7MB)](https://rawgit.com/mrocklin/8ec0443c94da553fe00c/raw/ff7d8d0754d07f35086b08c0d21865a03b3edeac/profile.html)
+[Profile Link (1.7MB)](https://combinatronics.com/mrocklin/8ec0443c94da553fe00c/raw/ff7d8d0754d07f35086b08c0d21865a03b3edeac/profile.html)
